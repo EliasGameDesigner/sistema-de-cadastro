@@ -5,5 +5,5 @@
 Para Rodar o projeto em sua Máquina,por favor digite:
 
 ```
-npm instal
+node app.js
 ```
